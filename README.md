@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-Magnifico ac strenuo viro D. Francisco Draco Anglo equiti auratoHercusanus, Joannes.1587Approx. 2 KB
+
+1. MAGNIFICO AC
+STRENVO VIRO D. FRANCISCO
+DRACO ANGLO EQVITI AVRATO
+
 #####Back#####
-Magnifico ac strenuo viro D. Francisco Draco Anglo equiti auratoHercusanus, Joannes.1587Approx. 2 KB
+LONDINI
+Excudebat Joannes Charlewood.
+pro Roberto VVallie. 1•87.
 **Types of content**
 
   * There are 26 **verse** lines!
